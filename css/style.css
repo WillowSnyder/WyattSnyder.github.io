@@ -1,6 +1,7 @@
 body {
-  background-color: lightblue;
+    background-image: url("../pictures/climbing.jpg")
 }
+
 
 #title {
   text-align: center;
