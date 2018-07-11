@@ -44,5 +44,23 @@
     background-image: url("../pictures/piano.jpeg");
 }
 
+.circle-image {
+    border-radius: 50%;
+}
+
+#me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    max-width: 350px;
+}
+
+body {
+    margin-top: 50px;
+}
+
 
 
