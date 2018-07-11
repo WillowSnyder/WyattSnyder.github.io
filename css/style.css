@@ -43,3 +43,7 @@
 #musician-text {
     background-image: url("../pictures/piano.jpeg");
 }
+
+#nav {
+    height: 100px;
+}
