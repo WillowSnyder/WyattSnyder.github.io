@@ -26,4 +26,12 @@
     line-height: 250px;
     font-size: 72px;
     color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+
+#developer-text {
+    background-image: url("../pictures/chip-croped.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
