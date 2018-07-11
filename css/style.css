@@ -1,11 +1,29 @@
-body {
-    background-image: url(../pictures/climbing.jpg);
+.parallax {
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
-
-#title {
-  text-align: center;
-  color: darkblue;
+#developer {
+    background-image: url("../pictures/computer-science.jpg");
 }
 
+#climber {
+    background-image: url("../pictures/climbing.jpg");
+}
 
+#musician {
+    background-image: url("../pictures/computer-science.jpg");
+}
+
+.parallax-text {
+    height: 250px;
+    background-color: Navy;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 250px;
+    font-size: 72px;
+    color: white;
+}
