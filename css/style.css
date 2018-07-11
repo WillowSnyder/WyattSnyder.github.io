@@ -28,10 +28,18 @@
     color: white;
     font-weight: bold;
     text-shadow: 2px 2px black;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #developer-text {
     background-image: url("../pictures/chip-croped.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
+}
+
+#climber-text {
+    background-image: url("../pictures/climbing-gear.jpeg");
+}
+
+#musician-text {
+    background-image: url("../pictures/piano.jpeg");
 }
