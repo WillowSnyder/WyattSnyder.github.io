@@ -50,6 +50,7 @@
 
 .home-image {
     max-width: 100%;
+    object-fit: cover;
 }
 
 body {
@@ -60,11 +61,75 @@ body {
     text-align: center;
 }
 
-.home-div {
-    background-image: url("../pictures/home-back.jpg");
-    background-size: auto;
+.home-row {
+  border-top-width: 3px;
+  border-style: solid;
+  /* get rid of side borders */
 }
 
 
-    
+#meText {
+    background-image: url("../pictures/me-text-back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#resumeText {
+    background-image: url("../pictures/resume-text-back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#projectsText {
+    background-image: url("../pictures/projects-text-back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#personalText {
+    background-image: url("../pictures/home-back2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#leadershipText {
+    background-image: url("../pictures/leadership-text-back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#mePic {
+  background-image: url("../pictures/me.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+#projectsPic {
+  background-image: url("../pictures/me.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+#resumePic {
+  background-image: url("../pictures/me.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+#personalPic {
+  background-image: url("../pictures/me.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+#leadershipPic {
+  background-image: url("../pictures/me.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
 
