@@ -54,12 +54,22 @@
 }
 
 body {
-    margin-top: 50px;
+    margin-top: 55px;
 }
 
 .home-page-text {
     text-align: center;
+    font-size: 200%;
 }
+
+.home-page-title {
+  text-align: center;
+  font-size: 1200px;
+  font-weight: bold;
+}
+
+
+
 
 .home-row {
   border-top-width: 3px;
