@@ -64,12 +64,9 @@ body {
 
 .home-page-title {
   text-align: center;
-  font-size: 1200px;
+  font-size: 300%;
   font-weight: bold;
 }
-
-
-
 
 .home-row {
   border-top-width: 3px;
