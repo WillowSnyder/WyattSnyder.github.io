@@ -112,6 +112,13 @@ body {
   height: 600px;
 }
 
+#meNicePic {
+    background-image: url("../pictures/nice_me.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
 #projectsPic {
   background-image: url("../pictures/me.jpeg");
   background-size: cover;
@@ -120,7 +127,7 @@ body {
 }
 
 #resumePic {
-  background-image: url("../pictures/me.jpeg");
+  background-image: url("../pictures/resume_stock_pic.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 600px;
